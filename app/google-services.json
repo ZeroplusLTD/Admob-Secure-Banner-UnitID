@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "784098837920",
+    "firebase_url": "https://admob-banner-946e2.firebaseio.com",
+    "project_id": "admob-banner-946e2",
+    "storage_bucket": "admob-banner-946e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784098837920:android:17ed0f3bb11c2473",
+        "android_client_info": {
+          "package_name": "com.admobsecure.bannerunit.id"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784098837920-tnn007l29gqcvusdt919m4jbvfj9dcpk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSaQNflQSYVafe793iP2thkS6WB51nX-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "784098837920-tnn007l29gqcvusdt919m4jbvfj9dcpk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
